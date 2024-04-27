@@ -1,5 +1,5 @@
 ![logo](https://github.com/sweta12232/sweta12232/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Sweta Sharma</h1>
+<h1 align="center">Hi 👋, I'm Sweta Sharma</h1> 
 <h3 align="center">A passionate Data Scientist from Nepal</h3>
 <img align = “right” alt = “coding” width = “400” src = “https://dribbble.com/shots/15215756-Coding-Animation-Concept”
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweta12232&label=Profile%20views&color=0e75b6&style=flat" alt="sweta12232" /> </p>
