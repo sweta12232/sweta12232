@@ -1,7 +1,7 @@
 ![logo](https://github.com/sweta12232/sweta12232/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sweta Sharma</h1> 
 <h3 align="center">A passionate Data Scientist from Nepal</h3>
-<img align = “right” alt = “coding” width = “400” src = “https://dribbble.com/shots/15215756-Coding-Animation-Concept”
+<img align = "right" alt = "coding" width = "400" src = "https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweta12232&label=Profile%20views&color=0e75b6&style=flat" alt="sweta12232" /> </p>
 
 - 📫 How to reach me **sweta.sharma1521@gmail.com**
